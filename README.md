@@ -2,7 +2,7 @@
 - 👀 I’m interested in fullstack develoment, especially in Backend! 
 - 🐘 I've been working with PHP using frameworks like Laravel, CodeIgniter!
 - 💚 Also I've develoment in the Fronend with Vue.js 
-- 🤓 I’m currently learning more about Frontend using TypeScript 
+- 🤓 I’m currently learning more about Frontend using Angular with TypeScript 
 - 📫 How to reach me on my LinkedIn profile!
 
 <!---
